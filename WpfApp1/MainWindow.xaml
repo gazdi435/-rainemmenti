@@ -1,0 +1,63 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <TabControl>
+            <TabItem Header="Felvétel">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Nyelv neve:"/>
+                        <TextBox Width="100" x:Name="txtbNev"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Forditó"/>
+                        <RadioButton VerticalAlignment="Center" x:Name="rdbFordito"/>
+                        <Label Content="Interpreter"/>
+                        <RadioButton VerticalAlignment="Center" x:Name="rdbInterpreter"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Nyelvcsalád"/>
+                        <ComboBox Width="100" x:Name="cmbNyelvCsalad">
+                            <ComboBoxItem Content="moduláris"/>
+                            <ComboBoxItem Content="strukturális"/>
+                            <ComboBoxItem Content="funkcionális"/>
+                            <ComboBoxItem Content="objektumOrientált"/>
+                        </ComboBox>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Megjelenés"/>
+                        <TextBox Width="100" x:Name="txtbMegjelenes"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="magas szintü"/>
+                        <RadioButton VerticalAlignment="Center" x:Name="rdbMagasSzintu"/>
+                        <Label Content="alacsony szintü"/>
+                        <RadioButton VerticalAlignment="Center" x:Name="rdbAlacsonySzintu"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Népszerűség"/>
+                        <Slider Minimum="1" Maximum="20" Width="150" x:Name="slNepszeruseg"/>
+                    </StackPanel>
+
+                    <Button Content="Rögzít" Width="50" HorizontalAlignment="Left" Click="rogzit"/>
+
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Adatok">
+                <DataGrid x:Name="dtgMegjelenit">
+                    
+                </DataGrid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

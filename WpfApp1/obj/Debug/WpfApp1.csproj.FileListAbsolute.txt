@@ -1,0 +1,15 @@
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\App.g.cs
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\MainWindow.baml
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Gazdag_Zsolt\GazdagZsolt\Neszemetljidepls\WpfApp1\obj\Debug\WpfApp1.pdb
